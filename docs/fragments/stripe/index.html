@@ -18,13 +18,13 @@
   <meta property="og:title" content="Stripe" />
 <meta property="og:description" content="Simple to use payment fragment using Stripe." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/fragments/stripe/" />
+<meta property="og:url" content="/hugo-syna/fragments/stripe/" />
 <meta property="article:modified_time" content="2020-05-12T14:21:58+09:00" />
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Stripe &amp;middot; Hugo Syna" />
   <meta name="twitter:description" content="Simple to use payment fragment using Stripe.">
-  <meta name="twitter:url" content="/fragments/stripe/" />
+  <meta name="twitter:url" content="/hugo-syna/fragments/stripe/" />
         <meta property="og:image" content="">
         <meta name="twitter:image" content="">
   <meta name="author" content="Okkur Labs">
@@ -378,53 +378,53 @@ html {
   align-self: stretch !important; }
 </style>
 
-  <link href="/style.min.5be84a29588be25ce368c2c2286616c722690b5d9d22c6344ec304c1e8178eb9.css" rel="stylesheet">
+  <link href="/hugo-syna/style.min.5be84a29588be25ce368c2c2286616c722690b5d9d22c6344ec304c1e8178eb9.css" rel="stylesheet">
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-      <link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
-      <link rel="icon" href="/favicon.png">
-      <link rel="apple-touch-icon-precomposed" href="/favicon.png">
-      <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+      <link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/hugo-syna/favicon.ico">
+      <link rel="icon" href="/hugo-syna/favicon.png">
+      <link rel="apple-touch-icon-precomposed" href="/hugo-syna/favicon.png">
+      <link rel="icon" type="image/svg+xml" href="/hugo-syna/favicon.svg">
 
   <script>
     window.syna = {
       enabledUnsafeEvents: true,
     };
   </script>
-  <script src="/scripts/syna-head.min.0757f18970a0a32d5acac5a2accc5fe82f787821866c545d9ed17ca765f291a3.js"></script></head>
+  <script src="/hugo-syna/scripts/syna-head.min.0757f18970a0a32d5acac5a2accc5fe82f787821866c545d9ed17ca765f291a3.js"></script></head>
 <body class="bg-secondary">
     <!-- Navigation --><nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy bg-dark navbar-dark" id="nav" role="navigation" style='position: sticky; top: 0; z-index: 10000 !important;'>
   <div class="container">
-      <a class="navbar-brand py-0" href="/#">
-        <img src="/images/logo.svg" height="35" class="d-inline-block align-top" alt="Syna">
+      <a class="navbar-brand py-0" href="/hugo-syna/#">
+        <img src="/hugo-syna/images/logo.svg" height="35" class="d-inline-block align-top" alt="Syna">
       </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
       <ul class="navbar-nav"><li class="nav-item">
-              <a href="/"
+              <a href="/hugo-syna/"
                   class="nav-link">
                 Home
               </a>
             </li><li class="nav-item">
-              <a href="/fragments"
+              <a href="/hugo-syna/fragments"
                   class="nav-link">
                 Fragments
               </a>
             </li><li class="nav-item">
-              <a href="/docs"
+              <a href="/hugo-syna/docs"
                   class="nav-link">
                 Docs
               </a>
             </li><li class="nav-item">
-              <a href="/about"
+              <a href="/hugo-syna/about"
                   class="nav-link">
                 About
               </a>
             </li>
       </ul>
         <div class="search-container position-relative">
-          <form action="/search" class="my-0">
+          <form action="/hugo-syna/search" class="my-0">
             <div class="input-group my-0">
               <input type="text" class="form-control py-1" id="search-query-nav" name="s" placeholder="Search...">
               <div class="input-group-append">
@@ -451,7 +451,7 @@ html {
   <nav aria-label="breadcrumb" class="overlay navbar breadcrumb-container navbar-expand-lg pt-2 bg-light navbar-dark" id="nav">
     <div class="container">
       <ol class="breadcrumb mb-0 py-1"><li class="breadcrumb-item active"ZgotmplZ>
-                <a href="/fragments/">Fragments showcase</a>
+                <a href="/hugo-syna/fragments/">Fragments showcase</a>
             </li><li class="breadcrumb-item active">Stripe
             </li></ol>
     </div>
@@ -952,8 +952,8 @@ You can pay for the product by filling this form (provided by Stripe).
   <ul>
     <li>
       <ul>
-        <li><a href="/fragments/stripe/#events">Events</a></li>
-        <li><a href="/fragments/stripe/#variables">Variables</a></li>
+        <li><a href="/hugo-syna/fragments/stripe/#events">Events</a></li>
+        <li><a href="/hugo-syna/fragments/stripe/#variables">Variables</a></li>
       </ul>
     </li>
   </ul>
@@ -973,10 +973,10 @@ You can pay for the product by filling this form (provided by Stripe).
 <p>It requires a backend for creating the customer and charge for Stripe. An example can be found at <a href="https://syna.okkur.org/stripe-gcf">here</a> which can be deployed on Google Cloud Functions and works out of the box.</p>
 <p>The use of a backend is also useful for saving other information from the user such as the product they selected (in case you are providing more than one products) or other metadata.</p>
 <h3 id="events">Events</h3>
-<p>This fragment uses the <a href="/docs/events/">Events</a> api by default.</p>
+<p>This fragment uses the <a href="/hugo-syna/docs/events/">Events</a> api by default.</p>
 <h4 id="subscribers">Subscribers</h4>
 <h5 id="pricingchange">pricing:change</h5>
-<p>This event is published by the <a href="/fragments/pricing/#events">Pricing fragment</a>. It can also be published by <a href="/docs/events/#event-urls">event urls</a>.</p>
+<p>This event is published by the <a href="/hugo-syna/fragments/pricing/#events">Pricing fragment</a>. It can also be published by <a href="/hugo-syna/docs/events/#event-urls">event urls</a>.</p>
 <h6 id="product">product</h6>
 <p><em>type: string</em></p>
 <p>If provided, this variable will override the preconfigured <code>product</code> variable and will be displayed on top of the form.</p>
@@ -1022,7 +1022,7 @@ You can pay for the product by filling this form (provided by Stripe).
 <h5 id="user_inputcurrencies">user_input.currencies</h5>
 <p><em>type: array of strings</em></p>
 <p>The currency in which the user will be charged. The value should follow the same rules as <a href="#prices-currency">prices.currency</a>.</p>
-<p><a href="/docs/global-variables/">Global variables</a> are documented as well and have been omitted from this page.</p>
+<p><a href="/hugo-syna/docs/global-variables/">Global variables</a> are documented as well and have been omitted from this page.</p>
 </div>
     </article>
   </div>
@@ -1039,7 +1039,7 @@ You can pay for the product by filling this form (provided by Stripe).
     <div class="col-md m-2 text-body">
         <h4></h4>
         <a href="">
-          <img src="/images/logo.svg" class="img-fluid w-50" alt="Logo Subtext">
+          <img src="/hugo-syna/images/logo.svg" class="img-fluid w-50" alt="Logo Subtext">
         </a>
         <div class="row justify-content-left ml-0">
             <span class="fa-stack fa-2x mt-3 mr-1" title="github">
@@ -1093,7 +1093,7 @@ You can pay for the product by filling this form (provided by Stripe).
           <div class="row mx-0 my-2 justify-content-center">
             <ul class="nav ml-lg-auto">
                 <li class="nav-item">
-                  <a class="nav-link py-0" href="/about"
+                  <a class="nav-link py-0" href="/hugo-syna/about"
                   >About Us</a>
                 </li>
             </ul>
@@ -1105,9 +1105,9 @@ You can pay for the product by filling this form (provided by Stripe).
 <div id="react"></div>
 
     <!-- Theme Code -->
-      <script async defer src="/scripts/syna-main.min.68ae1ae47948304c9c224cfc1a97ffe16c57514bc587dd6140dcb82389a8d299.js"></script>
-      <script async defer src="/scripts/syna-search.min.647ab37afa752ff5b6d866ed67df267795da44cad28ceed27646bdaef99e386f.js"></script><script src="https://js.stripe.com/v3/"></script>
-      <script async defer src="/scripts/syna-stripe.min.40e444e33b56b43941196471ba8c254c1a2f4479955f4f1069a90f9f2a792563.js"></script>
+      <script async defer src="/hugo-syna/scripts/syna-main.min.68ae1ae47948304c9c224cfc1a97ffe16c57514bc587dd6140dcb82389a8d299.js"></script>
+      <script async defer src="/hugo-syna/scripts/syna-search.min.647ab37afa752ff5b6d866ed67df267795da44cad28ceed27646bdaef99e386f.js"></script><script src="https://js.stripe.com/v3/"></script>
+      <script async defer src="/hugo-syna/scripts/syna-stripe.min.40e444e33b56b43941196471ba8c254c1a2f4479955f4f1069a90f9f2a792563.js"></script>
 <script id="stripe-price-template-stripe" type="text/x-js-template">
   <div class="btn-group btn-group-toggle" data-toggle="buttons">
     <label data-price="${price}" class="btn btn-primary">
@@ -1122,7 +1122,7 @@ You can pay for the product by filling this form (provided by Stripe).
   </div>
 </script>
 <script src="https://js.stripe.com/v3/"></script>
-      <script async defer src="/scripts/syna-stripe.min.40e444e33b56b43941196471ba8c254c1a2f4479955f4f1069a90f9f2a792563.js"></script>
+      <script async defer src="/hugo-syna/scripts/syna-stripe.min.40e444e33b56b43941196471ba8c254c1a2f4479955f4f1069a90f9f2a792563.js"></script>
 <script id="stripe-price-template-stripe-multi-price" type="text/x-js-template">
   <div class="btn-group btn-group-toggle" data-toggle="buttons">
     <label data-price="${price}" class="btn btn-primary">
@@ -1137,7 +1137,7 @@ You can pay for the product by filling this form (provided by Stripe).
   </div>
 </script>
 <script src="https://js.stripe.com/v3/"></script>
-      <script async defer src="/scripts/syna-stripe.min.40e444e33b56b43941196471ba8c254c1a2f4479955f4f1069a90f9f2a792563.js"></script>
+      <script async defer src="/hugo-syna/scripts/syna-stripe.min.40e444e33b56b43941196471ba8c254c1a2f4479955f4f1069a90f9f2a792563.js"></script>
 <script id="stripe-price-template-stripe-only-editable" type="text/x-js-template">
   <div class="btn-group btn-group-toggle" data-toggle="buttons">
     <label data-price="${price}" class="btn btn-primary">

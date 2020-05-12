@@ -3,202 +3,202 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/installation/</loc>
+    <loc>/hugo-syna/docs/installation/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/fragments/</loc>
+    <loc>/hugo-syna/docs/fragments/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/events/</loc>
+    <loc>/hugo-syna/docs/events/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/global-variables/</loc>
+    <loc>/hugo-syna/docs/global-variables/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/image-fallthrough/</loc>
+    <loc>/hugo-syna/docs/image-fallthrough/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/supported-colors/</loc>
+    <loc>/hugo-syna/docs/supported-colors/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/development/</loc>
+    <loc>/hugo-syna/docs/development/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/fragments-implementation/</loc>
+    <loc>/hugo-syna/docs/fragments-implementation/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/multilingual/</loc>
+    <loc>/hugo-syna/docs/multilingual/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/deployment/</loc>
+    <loc>/hugo-syna/docs/deployment/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/404/</loc>
+    <loc>/hugo-syna/fragments/404/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/buttons/</loc>
+    <loc>/hugo-syna/fragments/buttons/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/config/</loc>
+    <loc>/hugo-syna/fragments/config/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/contact/</loc>
+    <loc>/hugo-syna/fragments/contact/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/content/</loc>
+    <loc>/hugo-syna/fragments/content/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/copyright/</loc>
+    <loc>/hugo-syna/fragments/copyright/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/editor/</loc>
+    <loc>/hugo-syna/fragments/editor/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/embed/</loc>
+    <loc>/hugo-syna/fragments/embed/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/faq/</loc>
+    <loc>/hugo-syna/fragments/faq/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/footer/</loc>
+    <loc>/hugo-syna/fragments/footer/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/graph/</loc>
+    <loc>/hugo-syna/fragments/graph/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/header/</loc>
+    <loc>/hugo-syna/fragments/header/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/hero/</loc>
+    <loc>/hugo-syna/fragments/hero/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/item/</loc>
+    <loc>/hugo-syna/fragments/item/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/items/</loc>
+    <loc>/hugo-syna/fragments/items/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/list/</loc>
+    <loc>/hugo-syna/fragments/list/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/member/</loc>
+    <loc>/hugo-syna/fragments/member/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/nav/</loc>
+    <loc>/hugo-syna/fragments/nav/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/portfolio/</loc>
+    <loc>/hugo-syna/fragments/portfolio/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/pricing/</loc>
+    <loc>/hugo-syna/fragments/pricing/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/react-portal/</loc>
+    <loc>/hugo-syna/fragments/react-portal/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/search/</loc>
+    <loc>/hugo-syna/fragments/search/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>/hugo-syna/search/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/stripe/</loc>
+    <loc>/hugo-syna/fragments/stripe/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/table/</loc>
+    <loc>/hugo-syna/fragments/table/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/toc/</loc>
+    <loc>/hugo-syna/fragments/toc/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/hugo-syna/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/hugo-syna/about/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/</loc>
+    <loc>/hugo-syna/docs/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/fragments/</loc>
+    <loc>/hugo-syna/fragments/</loc>
     <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
