@@ -36,7 +36,7 @@ cp -pr ./themes/syna/exampleSite/{*.toml,static,content} .
 config.toml
 
 ```toml
-baseURL = "https://higebobo.github.io/hugo-syna/"
+baseURL = "/hugo-syna"
 title = "Hugo Syna"
 languageCode = "ja"
 publishDir = "docs"
@@ -44,8 +44,6 @@ defaultContentLanguage = "ja"
 theme = "syna"
 themesDir = "./themes"
 ```
-
-> github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
 
 Githubレポジトリ作成後
 
@@ -68,7 +66,7 @@ Github>Settings>Gighub Pages>Source>master branch/docs folder
 config.tomlに以下の設定があることを確認
 
 ```toml
-baseURL = "https://higebobo.github.com/hugo-syna/"
+baseURL = "/hugo-syna"
 publishDir = "docs"
 ```
 
