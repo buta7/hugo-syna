@@ -1,5 +1,9 @@
 # README
 
+以下が404 Not Foundになるが github pagesでは"_"で始まるファイルが閲覧不可か?
+
+https://higebobo.github.io/hugo-syna/_index/hero/logo.svg
+
 ## セットアップ
 
 サイト作成
