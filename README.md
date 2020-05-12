@@ -45,7 +45,7 @@ theme = "syna"
 themesDir = "./themes"
 ```
 
-> baseURLのプロトコルは例外を除いてhttpsにすること
+> github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
 
 Githubレポジトリ作成後
 

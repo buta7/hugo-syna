@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://higebobo.github.io/hugo-syna/"
+baseURL = "/"
 title = "Hugo Syna"
 languageCode = "ja"
 publishDir = "docs"

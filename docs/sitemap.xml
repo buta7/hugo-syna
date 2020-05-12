@@ -3,165 +3,203 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/installation/</loc>
+    <loc>/docs/installation/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/fragments/</loc>
+    <loc>/docs/fragments/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/events/</loc>
+    <loc>/docs/events/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/global-variables/</loc>
+    <loc>/docs/global-variables/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/image-fallthrough/</loc>
+    <loc>/docs/image-fallthrough/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/supported-colors/</loc>
+    <loc>/docs/supported-colors/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/development/</loc>
+    <loc>/docs/development/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/fragments-implementation/</loc>
+    <loc>/docs/fragments-implementation/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/multilingual/</loc>
+    <loc>/docs/multilingual/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/deployment/</loc>
+    <loc>/docs/deployment/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/404/</loc>
+    <loc>/fragments/404/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/buttons/</loc>
+    <loc>/fragments/buttons/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/config/</loc>
+    <loc>/fragments/config/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/contact/</loc>
+    <loc>/fragments/contact/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/content/</loc>
+    <loc>/fragments/content/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/copyright/</loc>
+    <loc>/fragments/copyright/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/editor/</loc>
+    <loc>/fragments/editor/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/embed/</loc>
+    <loc>/fragments/embed/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/faq/</loc>
+    <loc>/fragments/faq/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/footer/</loc>
+    <loc>/fragments/footer/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/graph/</loc>
+    <loc>/fragments/graph/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/header/</loc>
+    <loc>/fragments/header/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/hero/</loc>
+    <loc>/fragments/hero/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/item/</loc>
+    <loc>/fragments/item/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/items/</loc>
+    <loc>/fragments/items/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/list/</loc>
+    <loc>/fragments/list/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/member/</loc>
+    <loc>/fragments/member/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/nav/</loc>
+    <loc>/fragments/nav/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/portfolio/</loc>
+    <loc>/fragments/portfolio/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/pricing/</loc>
+    <loc>/fragments/pricing/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/react-portal/</loc>
+    <loc>/fragments/react-portal/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/search/</loc>
+    <loc>/fragments/search/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/search/</loc>
+    <loc>/search/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/stripe/</loc>
+    <loc>/fragments/stripe/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/table/</loc>
+    <loc>/fragments/table/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/toc/</loc>
+    <loc>/fragments/toc/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/about/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/docs/</loc>
+    <loc>/docs/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.io/hugo-syna/fragments/</loc>
+    <loc>/fragments/</loc>
+    <lastmod>2020-05-12T14:21:58+09:00</lastmod>
   </url>
   
 </urlset>
