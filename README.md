@@ -43,7 +43,7 @@ config.toml
 baseURL = "/hugo-syna"
 title = "Hugo Syna"
 languageCode = "ja"
-publishDir = "docs"
+#publishDir = "docs"
 defaultContentLanguage = "ja"
 theme = "syna"
 themesDir = "./themes"
@@ -61,6 +61,12 @@ git push -u origin master
 
 Github>Settings>Gighub Pages>Source>master branch/docs folder
 
+## Github Actionsの利用
+
+* .github/workflows/gh-pages.yamlを作成
+    * ソースはmasterブランチ
+    * 出力はpublicフォルダの内容をgh-pagesブランチ
+
 ## 既存のレポジトリからクローンする場合
 
 ```shell
@@ -72,15 +78,6 @@ git submodule update --init --recursive
 ## 使い方
 
 総合的なウェブサイトなので詳細はcontent参照のこと
-
-## Github連携
-
-config.tomlに以下の設定があることを確認
-
-```toml
-baseURL = "/hugo-syna"
-publishDir = "docs"
-```
 
 公開(githubにプッシュ)
 
