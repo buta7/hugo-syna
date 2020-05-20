@@ -61,6 +61,14 @@ git push -u origin master
 
 Github>Settings>Gighub Pages>Source>master branch/docs folder
 
+## 既存のレポジトリからクローンする場合
+
+```shell
+git clone git@github.com:higebobo/hugo-syna.git higebobo-syna
+cd higebobo-syna
+git submodule update --init --recursive
+```
+
 ## 使い方
 
 総合的なウェブサイトなので詳細はcontent参照のこと
