@@ -2,7 +2,7 @@
 baseURL = "/hugo-syna"
 title = "Hugo Syna"
 languageCode = "ja"
-publishDir = "docs"
+#publishDir = "docs"
 defaultContentLanguage = "ja"
 theme = "syna"
 themesDir = "./themes"
