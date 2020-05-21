@@ -2,3 +2,4 @@
 *~
 *.orig
 public
+.env
